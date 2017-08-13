@@ -18,6 +18,20 @@ public class Test {
 			for (int i = 0; i < fields.length; i++) {
 				System.out.println(fields[i].getName());
 			}
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 		} catch (ClassNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
